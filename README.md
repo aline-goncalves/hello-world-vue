@@ -1,5 +1,9 @@
 # hello-world
 
+## Project objective
+
+O projeto foi feito a partir do curso Vue3: explorando o framework disponibilizado pela Alura.
+
 ## Project setup
 ```
 npm install
